@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Profile placeholder for Hafiz Muhammad Meelad Raza Attari KHOKHAR">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#0891b2" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="48" fill="url(#bg)" />
+  <circle cx="400" cy="290" r="120" fill="rgba(255,255,255,0.18)" />
+  <path d="M220 620c34-106 129-170 180-170s146 64 180 170" fill="rgba(255,255,255,0.18)" />
+  <circle cx="400" cy="270" r="86" fill="#ffffff" opacity="0.92" />
+  <path d="M280 610c31-72 84-118 120-118s89 46 120 118" fill="#ffffff" opacity="0.92" />
+  <text x="400" y="715" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Replace with Creator Photo</text>
+</svg>
