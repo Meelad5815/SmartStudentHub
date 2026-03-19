@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Entry Test">
+<rect width="1200" height="800" rx="36" fill="#4f46e5"/>
+<circle cx="940" cy="180" r="110" fill="rgba(255,255,255,0.14)"/>
+<circle cx="220" cy="620" r="140" fill="rgba(255,255,255,0.10)"/>
+<rect x="110" y="130" width="980" height="540" rx="30" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.3)"/>
+<text x="140" y="310" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">Entry Test</text>
+<text x="140" y="390" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34">SmartStudentHub Placeholder Graphic</text>
+</svg>
